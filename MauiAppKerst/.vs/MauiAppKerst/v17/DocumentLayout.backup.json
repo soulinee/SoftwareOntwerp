@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\souli\\source\\repos\\MauiAppKerst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD6E4A3-C06B-4933-BF74-2A807BF6CD01}|MauiAppKerst.csproj|c:\\users\\souli\\source\\repos\\mauiappkerst\\views\\wenslijstpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CDD6E4A3-C06B-4933-BF74-2A807BF6CD01}|MauiAppKerst.csproj|solutionrelative:views\\wenslijstpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD6E4A3-C06B-4933-BF74-2A807BF6CD01}|MauiAppKerst.csproj|c:\\users\\souli\\source\\repos\\mauiappkerst\\views\\wenslijstpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD6E4A3-C06B-4933-BF74-2A807BF6CD01}|MauiAppKerst.csproj|solutionrelative:views\\wenslijstpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581D3B4A-CEEE-4B18-ADEA-6ED5734A4B64}|..\\MauiKerst_DL\\MauiKerst_DL.csproj|c:\\users\\souli\\source\\repos\\mauikerst_dl\\repos\\litedbkerstrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26C5D83-D129-4892-9F1F-43A24E8159B9}|..\\MauiKerst_BL\\MauiKerst_BL.csproj|c:\\users\\souli\\source\\repos\\mauikerst_bl\\model\\wenslijst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26C5D83-D129-4892-9F1F-43A24E8159B9}|..\\MauiKerst_BL\\MauiKerst_BL.csproj|c:\\users\\souli\\source\\repos\\mauikerst_bl\\model\\wenscadeau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26C5D83-D129-4892-9F1F-43A24E8159B9}|..\\MauiKerst_BL\\MauiKerst_BL.csproj|c:\\users\\souli\\source\\repos\\mauikerst_bl\\model\\persoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26C5D83-D129-4892-9F1F-43A24E8159B9}|..\\MauiKerst_BL\\MauiKerst_BL.csproj|c:\\users\\souli\\source\\repos\\mauikerst_bl\\model\\kerstlijst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26C5D83-D129-4892-9F1F-43A24E8159B9}|..\\MauiKerst_BL\\MauiKerst_BL.csproj|c:\\users\\souli\\source\\repos\\mauikerst_bl\\model\\kerstcadeau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26C5D83-D129-4892-9F1F-43A24E8159B9}|..\\MauiKerst_BL\\MauiKerst_BL.csproj|c:\\users\\souli\\source\\repos\\mauikerst_bl\\services\\wenstlijstservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WensLijstPage.xaml",
+              "DocumentMoniker": "C:\\Users\\souli\\source\\repos\\MauiAppKerst\\Views\\WensLijstPage.xaml",
+              "RelativeDocumentMoniker": "Views\\WensLijstPage.xaml",
+              "ToolTip": "C:\\Users\\souli\\source\\repos\\MauiAppKerst\\Views\\WensLijstPage.xaml",
+              "RelativeToolTip": "Views\\WensLijstPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-21T21:13:36.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WensLijstPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\souli\\source\\repos\\MauiAppKerst\\Views\\WensLijstPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\WensLijstPage.xaml.cs",
+              "ToolTip": "C:\\Users\\souli\\source\\repos\\MauiAppKerst\\Views\\WensLijstPage.xaml.cs",
+              "RelativeToolTip": "Views\\WensLijstPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T21:13:32.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WensLijst.cs",
+              "DocumentMoniker": "C:\\Users\\souli\\source\\repos\\MauiKerst_BL\\Model\\WensLijst.cs",
+              "RelativeDocumentMoniker": "..\\MauiKerst_BL\\Model\\WensLijst.cs",
+              "ToolTip": "C:\\Users\\souli\\source\\repos\\MauiKerst_BL\\Model\\WensLijst.cs",
+              "RelativeToolTip": "..\\MauiKerst_BL\\Model\\WensLijst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T21:10:41.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WensCadeau.cs",
+              "DocumentMoniker": "C:\\Users\\souli\\source\\repos\\MauiKerst_BL\\Model\\WensCadeau.cs",
+              "RelativeDocumentMoniker": "..\\MauiKerst_BL\\Model\\WensCadeau.cs",
+              "ToolTip": "C:\\Users\\souli\\source\\repos\\MauiKerst_BL\\Model\\WensCadeau.cs",
+              "RelativeToolTip": "..\\MauiKerst_BL\\Model\\WensCadeau.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T21:08:58.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persoon.cs",
+              "DocumentMoniker": "C:\\Users\\souli\\source\\repos\\MauiKerst_BL\\Model\\Persoon.cs",
+              "RelativeDocumentMoniker": "..\\MauiKerst_BL\\Model\\Persoon.cs",
+              "ToolTip": "C:\\Users\\souli\\source\\repos\\MauiKerst_BL\\Model\\Persoon.cs",
+              "RelativeToolTip": "..\\MauiKerst_BL\\Model\\Persoon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T21:07:41.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KerstLijst.cs",
+              "DocumentMoniker": "C:\\Users\\souli\\source\\repos\\MauiKerst_BL\\Model\\KerstLijst.cs",
+              "RelativeDocumentMoniker": "..\\MauiKerst_BL\\Model\\KerstLijst.cs",
+              "ToolTip": "C:\\Users\\souli\\source\\repos\\MauiKerst_BL\\Model\\KerstLijst.cs",
+              "RelativeToolTip": "..\\MauiKerst_BL\\Model\\KerstLijst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T21:05:39.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KerstCadeau.cs",
+              "DocumentMoniker": "C:\\Users\\souli\\source\\repos\\MauiKerst_BL\\Model\\KerstCadeau.cs",
+              "RelativeDocumentMoniker": "..\\MauiKerst_BL\\Model\\KerstCadeau.cs",
+              "ToolTip": "C:\\Users\\souli\\source\\repos\\MauiKerst_BL\\Model\\KerstCadeau.cs",
+              "RelativeToolTip": "..\\MauiKerst_BL\\Model\\KerstCadeau.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T21:03:52.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LiteDbKerstRepo.cs",
+              "DocumentMoniker": "C:\\Users\\souli\\source\\repos\\MauiKerst_DL\\Repos\\LiteDbKerstRepo.cs",
+              "RelativeDocumentMoniker": "..\\MauiKerst_DL\\Repos\\LiteDbKerstRepo.cs",
+              "ToolTip": "C:\\Users\\souli\\source\\repos\\MauiKerst_DL\\Repos\\LiteDbKerstRepo.cs",
+              "RelativeToolTip": "..\\MauiKerst_DL\\Repos\\LiteDbKerstRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T21:03:34.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WenstLijstService.cs",
+              "DocumentMoniker": "C:\\Users\\souli\\source\\repos\\MauiKerst_BL\\Services\\WenstLijstService.cs",
+              "RelativeDocumentMoniker": "..\\MauiKerst_BL\\Services\\WenstLijstService.cs",
+              "ToolTip": "C:\\Users\\souli\\source\\repos\\MauiKerst_BL\\Services\\WenstLijstService.cs",
+              "RelativeToolTip": "..\\MauiKerst_BL\\Services\\WenstLijstService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T21:01:17.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

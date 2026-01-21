@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiAppKerst.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Image
+                Source="kerstman.jpg"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="dot  net kerstman" />
+
+            
+
+            
+            <Button
+                 x:Name="ToonKerstLijst"
+                 Text="Toon KerstLijst"
+                 Command="{Binding ToonKerstLijstCommand}"
+            />
+            <Button
+                 x:Name="ToonWensLijst"
+                 Text="Toon WensLijst"
+                 Command="{Binding ToonWensLijstCommand}"
+            />
+
+            <Button
+                x:Name="CounterBtn"
+                Text="Click me" 
+                SemanticProperties.Hint="Counts the number of times you click"
+                Clicked="OnCounterClicked"
+                HorizontalOptions="Fill" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
